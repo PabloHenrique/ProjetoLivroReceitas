@@ -1,0 +1,13 @@
+:root{
+    /*Paleta: View */
+    --colorRedT1: rgb(255, 78, 80); /*#ff4e50*/
+    --colorOrangeT2: rgb(252, 145, 58); /*##fc913a*/
+    --colorYellowT3: rgb(249, 212, 35); /*##f9d423*/
+    --colorLightYellowT4: rgb(237, 229, 116); /*#ede574*/
+    --colorLightGreenT5: rgb(255, 245, 196); /*#fff5c4*/
+
+    /*Paleta: Titles */
+    --colorTitlePrimary: rgb(145, 63, 51); /*#913f33*/
+    --colorTitleBlue: rgb(159, 185, 194); /*#9fb9c2*/
+
+}
